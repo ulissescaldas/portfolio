@@ -8,5 +8,4 @@ Bem-vindo ao repositório do portfólio profissional de **Ulisses Caldas**. Este
 
 ## 🌐 Acesse o portfólio
 
-➡️ [Ver página online](https://seu-usuario.github.io/nome-do-repositorio/)  
-*(substitua com o link real após publicar no GitHub Pages)*
+➡️ [Ver página online](https://ulissescaldas.github.io/portfolio/) 
