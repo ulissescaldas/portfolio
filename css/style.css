@@ -75,9 +75,31 @@ main {
 }
 
 .footer {
+  background-color: #001233;
+  padding: 3px;
   text-align: center;
-  padding: 8px;
-  background-color: #e1e9ee;
-  color: #666;
-  font-size: 12px;
+  font-family: Arial, sans-serif;
+  color: white;
+ }
+
+.footer p {
+  margin-top: 10px;
+  color: white;
+  font-size: 11px;
 }
+
+.social-icons {
+ margin-top: 5px;
+}
+
+.social-icons a {
+  margin: 0 15px;
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+  transition: color 0.3s;
+ }
+
+.social-icons a:hover {
+  color: #0353A7;
+ }
